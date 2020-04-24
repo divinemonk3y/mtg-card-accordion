@@ -1,5 +1,6 @@
-# mtg-card-accordion
-Vanilla Javascript MTG accordion using data from mtgjson.com
+# Magic: The Gathering card accordion
+
+Vanilla Javascript MTG accordion using data kindly provided by Scryfall (https://scryfall.com)
 
 ## Getting started
 
